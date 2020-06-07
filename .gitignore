@@ -38,7 +38,7 @@ Thumbs.db
 
 # Secrets #
 ###########
-.secret
+.secret.js
 
 # Node #
 ########
@@ -51,6 +51,7 @@ node_modules
 # VSCode #
 ##########
 .vscode
+*.code-workspace
 
 # IntelliJ #
 ##########
